@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511234b3-2ed7-45de-916c-b0edea7b57bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602515335945</updated>
-      <workItem from="1602515337144" duration="4466000" />
+      <workItem from="1602515337144" duration="4711000" />
     </task>
     <servers />
   </component>
@@ -80,9 +79,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="189" width="604" height="490" key="find.popup" timestamp="1602522327759">
+    <state x="418" y="189" width="604" height="490" key="find.popup" timestamp="1602522857686">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="418" y="189" width="604" height="490" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1602522327759" />
+    <state x="418" y="189" width="604" height="490" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1602522857686" />
   </component>
 </project>
