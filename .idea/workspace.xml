@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="511234b3-2ed7-45de-916c-b0edea7b57bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/project_tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/share-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/compress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/posts_by_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/project_single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-12-how-to-handle-xss-injection-in-django.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_project/cool-project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/android.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/bash.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/codefights.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/django.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/ios.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/jekyll.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/linux.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/nginx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/others.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/raspberry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/ruby.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/security.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/server.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/ssl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/ubuntu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/super-search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/syntax.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/thickbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-300italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-300italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/roboto-condensed-v16-latin-ext_latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/loadingAnimation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/macFFBgHack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/subtle_dots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/super-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/thickbox-compressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/projects/placeholder.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1imaguVWt2qZgtZT6QgUXWLijhD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/category" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/category" />
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511234b3-2ed7-45de-916c-b0edea7b57bf" name="Default Changelist" comment="" />
+      <created>1602515335945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602515335945</updated>
+      <workItem from="1602515337144" duration="3748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
